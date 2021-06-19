@@ -1,0 +1,16 @@
+{
+"companyName": "Justkidsgames u.k.",
+"productName": "Smash Em Mayhem",
+"productVersion": "1",
+"dataUrl": "WEBGL.data.unityweb",
+"wasmCodeUrl": "WEBGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "WEBGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "WEBGL.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.11f1"
+}
